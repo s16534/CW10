@@ -7075,11 +7075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj",
+      "projectUniqueName": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\cw10\\cw10.csproj",
       "projectName": "cw10",
-      "projectPath": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj",
+      "projectPath": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\cw10\\cw10.csproj",
       "packagesPath": "C:\\Users\\Matoosh\\.nuget\\packages\\",
-      "outputPath": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\obj\\",
+      "outputPath": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\cw10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matoosh\\AppData\\Roaming\\NuGet\\NuGet.Config",

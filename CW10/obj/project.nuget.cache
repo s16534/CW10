@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iLN76ESY8y3k2cSZojCIXkMDi7xazFgzyFOJjMm9cKUwmCGMf8LX74dnpR2+qZYkq+o8Vthyqh5FG6IS+faicA==",
+  "dgSpecHash": "ghuOItw204I4SgQvOUoIDIfCh+VJvj3mhW4cOryEKYU1hqq89QVkKxK/Hg2X5xt5G8bdMZ5c+giDQnyTsqwiPA==",
   "success": true,
-  "projectFilePath": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj",
+  "projectFilePath": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\cw10\\cw10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matoosh\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Matoosh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace cw10.Controllers
 {
-    [Route("api/student")]
+    [Route("api/students")]
     [ApiController]
     public class StudentsController : ControllerBase
     {
