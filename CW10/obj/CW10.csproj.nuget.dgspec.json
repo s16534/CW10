@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\CW10\\CW10.csproj": {}
+    "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj": {}
   },
   "projects": {
-    "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\CW10\\CW10.csproj": {
+    "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\CW10\\CW10.csproj",
-        "projectName": "CW10",
-        "projectPath": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\CW10\\CW10.csproj",
+        "projectUniqueName": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj",
+        "projectName": "cw10",
+        "projectPath": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\cw10.csproj",
         "packagesPath": "C:\\Users\\Matoosh\\.nuget\\packages\\",
-        "outputPath": "H:\\_GITLAB REPOSITORY\\APBD\\CW10\\CW10\\obj\\",
+        "outputPath": "H:\\Repositories\\apbd\\Ćwiczenia\\cw10\\cw10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matoosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
